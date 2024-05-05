@@ -1,0 +1,35 @@
+header {
+  ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+}
+
+main {
+  .hero-shot {
+    background-image: url(images/pexels-photo-940302.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    h1 {
+      color: black;
+    }
+
+    .hero-first-btn {
+      background-color: black;
+      color: white;
+      border: 0;
+    }
+  }
+}
+
+
+footer {
+  .social-media {
+    .twitter {
+      font-family: $bootstrap-icons-font;
+      content: "\f5ef";
+      font-size: 25px;
+      color: black;
+    }
+  }
+}
