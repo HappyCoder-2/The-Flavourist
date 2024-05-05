@@ -1,0 +1,17 @@
+header ul {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+main .hero-shot {
+  background-image: url(images/pexels-photo-940302.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main .hero-shot h1 {
+  color: black;
+}
+main .hero-shot .hero-first-btn {
+  background-color: black;
+  color: white;
+  border: 0;
+}/*# sourceMappingURL=main.css.map */
